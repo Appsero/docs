@@ -7,7 +7,7 @@
     - [Connect AppSero Plugin/Theme with the Theme/Plugin on your wordpress store.](#connect-the-plugin-theme)
     - [Sync license with store on AppSero.](#sync-licenses)
 
-### Creating API Key
+## Creating API Key
 
 To create <code>API Key</code> go to API Key page under right top navigation menu.
 
@@ -21,7 +21,17 @@ Then click on <code>Create API Key</code> button.
 
 ## Install AppSero Helper
 
-Go to your store WordPress site and install <code>AppSero Helper</code> plugin. To install AppSero Helper go to plugin page and search AppSero Helper and install the plugin. AppSero helper will ask for a <code>API Key</code> to connect with AppSero. Copy the <code>API Key</code> from AppSero and connect AppSero Helper plugin using the API Key. 
+Appsero Helper provide connection between AppSero and WordPress store.
+
+Go to your store WordPress site and install <code>AppSero Helper</code> plugin. To install `appsero-helper` upload the `appsero-helper` plugin to your `/wp-content/plugins/` directory. Or go to plugin page and search `AppSero Helper` and install and activate the plugin. When installation will be completed it will ask for a `API Key` to connect with AppSero.
+ 
+ ![Activate AppSero Helper](../images/api-key/activate-wordpress.png)
+ 
+ Copy `API Key` from AppSero. If don't have any `API Key` then [create new API Key](/). Copy the Key and paste it to API Key input box then click on `Connect` button.
+ 
+ ::: tip
+ After completing installation if it don't redirect to `AppSero Helper` page then go to `Settings > Appsero Helper`. And connect the Helper.
+ :::
 
 > Your Website is now connected with AppSero.
 
