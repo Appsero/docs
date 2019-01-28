@@ -13,32 +13,32 @@ To add theme go to <code>Themes</code> menu then click on <code>Add Theme</code>
     </tr>
     <tr>
         <td> Theme Name </td>
-        <td> Yes </td>
+        <td> <code>Yes</code></td>
         <td> The name of the theme. </td>
     </tr>
     <tr>
         <td> Slug </td>
-        <td> Yes </td>
+        <td> <code>Yes</code> </td>
         <td> Slug of the theme. It will be generated automatically but if you want you can change it. Note that you will not be able to update it later.| </td>
     </tr>
     <tr>
         <td>Version</td>
-        <td>Yes</td>
+        <td><code>Yes</code></td>
         <td>The version of the theme. You will be able to add new version at the time of release.</td>
     </tr>
     <tr>
         <td>Homepage URL</td>
-        <td>No</td>
+        <td><code>No</code></td>
         <td>Webiste URL of the theme. Put Website URL based on hosted store. Put WordPress.org url of the theme if it is hosted on WordPress.org. </td>
     </tr>
     <tr>
         <td>Demo URL</td>
-        <td>No</td>
+        <td><code>No</code></td>
         <td>Demo site URL of the theme.</td>
     </tr>
     <tr>
         <td>Description</td>
-        <td>No</td>
+        <td><code>No</code></td>
         <td> Give a description of the theme. This field is markdown supported. </td>
     </tr>
 </table>
@@ -88,7 +88,7 @@ If this is a premium theme then check on <code>This Is a Premium Theme</code> ch
 If enable <code>This Is a Premium theme</code> then you will get an option  for variation. If the theme has multiple variations then check on <code>Has Variations</code> and add variations by providing <code>Variations Name</code> and <code>Activations limit.</code> 
 <br><br>
 
-![An image](../images/project/settings.png)
+![Theme Settings](../images/project/settings.png)
 
 Finally click on <code>**Save Settings**</code> button. 
 

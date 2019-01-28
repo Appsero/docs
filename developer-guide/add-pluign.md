@@ -13,47 +13,47 @@ To create new plugin go to <code>Plugins</code> menu then click on <code>Add Plu
     </tr>
     <tr>
         <td> Plugin Name </td>
-        <td> Yes </td>
+        <td> <code>Yes</code> </td>
         <td> The name of the plugin. </td>
     </tr>
     <tr>
         <td> Slug </td>
-        <td> Yes </td>
+        <td> <code>Yes</code> </td>
         <td> Slug of the plugin. It will be generated automatically but you can change it. Note that you will not be able to update it later. </td>
     </tr>
     <tr>
         <td>Version</td>
-        <td>Yes</td>
+        <td><code>Yes</code></td>
         <td>The version of the plugin. You will be able to add new version at the time of release.</td>
     </tr>
     <tr>
         <td>Requires PHP Version </td>
-        <td>Yes</td>
+        <td><code>Yes</code></td>
         <td>Requires PHP Version for the plugins.</td>
     </tr>
     <tr>
         <td>Requires WordPress Version </td>
-        <td>Yes</td>
+        <td><code>Yes</code></td>
         <td>Wordpress version requires for the plugin.</td>
     </tr>
     <tr>
         <td>Tested up to </td>
-        <td>Yes</td>
+        <td><code>Yes</code></td>
         <td>Maximum version of wordpress the plugin has been tested.</td>
     </tr>
     <tr>
         <td>Homepage URL</td>
-        <td>No</td>
+        <td><code>No</code></td>
         <td> Webiste URL of the plugin. Put Website URL based on hosted store. Put WordPress.org url of the plugin, if it is hosted on WordPress.org. </td>
     </tr>
     <tr>
         <td>Demo URL</td>
-        <td>No</td>
+        <td><code>No</code></td>
         <td>Demo site URL of the plugin.</td>
     </tr>
     <tr>
         <td>Description</td>
-        <td>No</td>
+        <td><code>No</code></td>
         <td>Give a description of the plugin. This field is markdown supported.</td>
     </tr>
 </table>
