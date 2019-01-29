@@ -1,6 +1,6 @@
 # Forward Deactivation Mail
 
-## Deactivation Deactivation to Support
+## Forward Deactivation to Support
 
 To get email when someone deactivate the Plugin/Theme. You can enable `Forword Deactivations Mail`.
 

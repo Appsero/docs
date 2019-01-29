@@ -5,10 +5,11 @@ module.exports = {
     themeConfig: {
         nav: [
             {text: 'Home', link: '/'},
-            {text: 'Developer Guide', link: '/developer-guide/'}
+            {text: 'User Guide', link: '/user-guide/'},
+            {text: 'Developer Guide', link: '/developer-guide/'},
         ],
         sidebar: {
-            '/developer-guide/': [
+            '/user-guide/': [
                 '',
                 // ['create-account', 'Creating An Account'],
                 ['add-pluign', 'Adding a Plugin'],
@@ -18,9 +19,13 @@ module.exports = {
                 ['email-digest', 'Email Digest'],
                 ['releases', 'Release'],
                 ['forword-deactivation', 'Forword Deactivations'],
-                ['appsero-client', 'AppSero Client'],
                 ['appsero-helper', 'AppSero Helper'],
+            ],
+
+            '/developer-guide/': [
+                // '',
+                ['appsero-client', 'AppSero Client']
             ]
         }
     },
-  }
+  };

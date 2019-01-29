@@ -4,7 +4,7 @@ heroImage: /images/appsero.svg
 heroText: AppSero Developer Documents
 tagline: Hero subtitle
 actionText: Get Started →
-actionLink: /developer-guide/
+actionLink: /user-guide/
 features:
 - title: Analytics
   details: Minimal setup with markdown-centered project structure helps you focus on writing.

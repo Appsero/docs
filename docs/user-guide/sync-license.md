@@ -1,11 +1,11 @@
-# Syncing license from your existing (EDD, Woo SA, Woo API) store:
+# Syncing Licenses From WordPress Store:
 
-- **To sync licenses from WordPress store follow the following steps**
+- **To Sync Licenses From WordPress Store Follow the Following Steps:**
     - [Creating API Key](#creating-api-key)
-    - [Install AppSero Helper and connect using API Key](#install-appsero-helper)
-    - [Enable licensing on AppSero](#enable-licensing)
-    - [Connect AppSero Plugin/Theme with the Theme/Plugin on your wordpress store.](#connect-the-plugin-theme)
-    - [Sync license with store on AppSero.](#sync-licenses)
+    - [Install AppSero Helper](#install-appsero-helper)
+    - [Enable Licensing](#enable-licensing)
+    - [Map the Plugin/Theme](#connect-the-plugin-theme)
+    - [Sync Licenses](#sync-licenses)
 
 ## Creating API Key
 
