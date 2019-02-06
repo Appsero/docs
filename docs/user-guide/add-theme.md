@@ -2,7 +2,7 @@
 
 ## Basic Information
 
-To add theme go to <code>Themes</code> menu then click on <code>Add Theme</code> button. Fill up the form with following information:
+To add theme go to <code>Themes</code> menu then click on <code>Add Theme</code> button. Fill up the form with the following information:
 
 ### Available fields
 <table>
@@ -29,7 +29,7 @@ To add theme go to <code>Themes</code> menu then click on <code>Add Theme</code>
     <tr>
         <td>Homepage URL</td>
         <td><code>No</code></td>
-        <td>Webiste URL of the theme. Put Website URL based on hosted store. Put WordPress.org url of the theme if it is hosted on WordPress.org. </td>
+        <td>Website URL of the theme. Put Website URL based on the hosted store. Put WordPress.org URL of the theme if it is hosted on WordPress.org.</td>
     </tr>
     <tr>
         <td>Demo URL</td>
@@ -46,7 +46,7 @@ To add theme go to <code>Themes</code> menu then click on <code>Add Theme</code>
 
 ![An image](../images/project/theme.png)
 
-After fill up the form click on <code>**Submit Theme**</code> button. 
+After filling up the form click on <code>**Submit Theme**</code> button. 
 
 
 > Congratulations :tada: the theme has been created. 
@@ -60,17 +60,17 @@ After submitting the theme it will be redirected to <code>Theme Settings</code> 
 Select the theme’s hosted site among **[AppSero](#appsero)**, **[WordPress.org](#wordpress-org)**, **[Envato](#envato)** and **[Your Site](#your-site)**. 
 
 ### AppSero
-Select AppSero if the theme hosted on appaero.com after that you will get an option to enable licensing. If you would like to manage licencing for this theme then <code>Enable</code> licencing system otherwise <code>Disable</code> it. 
+Select AppSero if the theme hosted on appaero.com after that you will get an option to enable licensing. If you would like to manage licensing for this theme then <code>Enable</code> licensing system otherwise <code>Disable</code> it. 
 
 If this is a premium theme then check on <code>This Is a Premium theme</code>. 
 
-If enable <code>This Is a Premium Theme</code> then you will get an option  for variation. If the theme has multiple variations then check on <code>Has Variations</code> and add variations by providing <code>Variation Name</code> and <code>Activations limit.</code> 
+If enabled <code>This Is a Premium Theme</code> then, you will get an option  for variation. If the theme has multiple variations then check on <code>Has Variations</code> and add variations by providing <code>Variation Name</code> and <code>Activations limit.</code> 
 
 ### WordPress.org
 Licensing is not available for the theme hosted on WordPress.org.
 
 ### Envato
-To enable licencing using envato purchase key click on <code>Use Envato Purchase Code</code> button. If don’t need licensing then click <code>Not Using Any</code> button.  To use Envato licensing by purchase code you have to [connect](envato-licensing.md) this theme with your Envato item. 
+To enable licensing using Envato purchase key click on <code>Use Envato Purchase Code</code> button. If don’t need licensing then click <code>Not Using Any</code> button.  To use Envato licensing by purchase code you have to [connect](envato-licensing.md) this theme with your Envato item. 
 
 [Click Here To Learn More About Envato Licensing](envato-licensing.md) 
 
@@ -78,19 +78,19 @@ To enable licencing using envato purchase key click on <code>Use Envato Purchase
 ### Your Site
 Select the theme you are using for billing. There are two options one is <code>Easy Digital Downloads</code> another <code>WooCommerce.</code> 
 
-#### Select your prefered licence manager. 
-For <code>Easy Digital Downloads</code> there are two options one <code>EDD Software Licencing</code> another <code>AppSero</code> native. Select your preferred licensing system. If the theme don’t need licencing then click on <code>Not Any</code>. 
+#### Select your preferred license manager. 
+For <code>Easy Digital Downloads</code> there are two options one <code>EDD Software licensing</code> another <code>AppSero</code> native. Select your preferred licensing system. If the theme don’t need licensing then click on <code>Not Any</code>. 
 
-For <code>WooCommerce</code> there are three options <code>WooCommerce API Manager</code>, <code>WooCommerce Software Add-on</code>, <code>AppSero</code> Native Licensing. Select your preferred licensing system.  If the theme don’t need licencing then click on <code>Not Any</code>. 
+For <code>WooCommerce</code> there are three options <code>WooCommerce API Manager</code>, <code>WooCommerce Software Add-on</code>, <code>AppSero</code> Native Licensing. Select your preferred licensing system.  If the theme doesn’t need licensing then click on <code>Not Any</code>. 
 
 If this is a premium theme then check on <code>This Is a Premium Theme</code> checkbox. 
 
-If enable <code>This Is a Premium theme</code> then you will get an option  for variation. If the theme has multiple variations then check on <code>Has Variations</code> and add variations by providing <code>Variations Name</code> and <code>Activations limit.</code> 
+If enabled <code>This Is a Premium theme</code> then, you will get an option  for variation. If the theme has multiple variations then check on <code>Has Variations</code> and add variations by providing <code>Variations Name</code> and <code>Activations limit.</code> 
 <br><br>
 
 ![Theme Settings](../images/project/settings.png)
 
-Finally click on <code>**Save Settings**</code> button. 
+Finally, click on <code>**Save Settings**</code> button. 
 
-> Congratulations, Theme Settings has been Updated. :slightly_smiling_face:
+> Congratulations, Theme Settings have been Updated. :slightly_smiling_face:
 

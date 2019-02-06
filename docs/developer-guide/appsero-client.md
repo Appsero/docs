@@ -2,11 +2,6 @@
 
 - [Installation](#installation)
 - [Insights](#insights)
-- [Enable Updater](#enable-updater)
-- [Enable Licensing](#enable-licensing)
-- [Usage Example](#usage-example)
-- [More Usage](#more-usage)
-- [Dynamic Usage](#dynamic-usage)
 
 
 ## Installation
@@ -49,37 +44,14 @@ AppSero can be used in both themes and plugins.
 The `AppSero\Client` class has *three* parameters:
 
 ```php
-$client = new AppSero\Client( $hash, $name, $file );
+$insights = new AppSero\Client( $hash, $name, $file );
 ```
 
 - **hash** (*string*, *required*) - The unique identifier for a plugin or theme.
 - **name** (*string*, *required*) - The name of the plugin or theme.
 - **file** (*string*, *required*) - The **main file** path of the plugin. For theme, path to `functions.php`
 
-### Enable insight 
-```php
-$client->insights()->init();
-```
-
-## Enable Updater
-```php
-$client->updater();
-```
-
-## Enable Licensing
-```php
-$args = array(
-    'type'       => 'options',
-    'menu_title' => 'Akismet',
-    'page_title' => 'Akismet License Settings',
-    'menu_slug'  => 'akismet_settings',
-);
-$client->license()->add_settings_page( $args );
-```
-
-
-
-## Usage Example
+### Usage Example
 
 Please refer to the **installation** step before start using the class.
 
@@ -123,7 +95,7 @@ add_action( 'init', 'appsero_init_tracker_appsero_test' );
 
 ## More Usage
 
-Sometimes you wouldn't want to show the notice, or want to customize the notice message. You can do that as well.
+Sometimes you wouldn't want to show the notice or want to customize the notice message. You can do that as well.
 
 ```php
 $client = new AppSero\Client( 'a4a8da5b-b419-4656-98e9-4a42e9044892', 'Twenty Twelve', __FILE__ );
@@ -161,7 +133,7 @@ $client->insights()
 
 ---
 
-## Dynamic Usage
+### Dynamic Usage
 
 In some cases you wouldn't want to show the optin message, but forcefully opt-in the user and send tracking data.
 

@@ -9,7 +9,7 @@
 
 ## Creating API Key
 
-To create <code>API Key</code> go to API Key page under right top navigation menu.
+To create <code>API Key</code> go to the API Key page under right top navigation menu.
 
 ![API Key](../images/api-key/1.png)
 
@@ -17,27 +17,27 @@ Then click on <code>Create API Key</code> button.
 
 ![Create API Key](../images/api-key/2.png)
 
-> API Key has been created. Use this API Key to connect your WordPress Site by AppSero Helper Plugin
+> API Key have been created. Use this API Key to connect your WordPress Site by AppSero Helper Plugin
 
 ## Install AppSero Helper
 
-Appsero Helper provide connection between AppSero and WordPress store.
+Appsero Helper provides a connection between AppSero and WordPress store.
 
-Go to your store WordPress site and install <code>AppSero Helper</code> plugin. To install `appsero-helper` upload the `appsero-helper` plugin to your `/wp-content/plugins/` directory. Or go to plugin page and search `AppSero Helper` and install and activate the plugin. When installation will be completed it will ask for a `API Key` to connect with AppSero.
+Go to your store WordPress site and install <code>AppSero Helper</code> plugin. To install `appsero-helper` upload the `appsero-helper` plugin to your `/wp-content/plugins/` directory. Or go to the plugin page and search `AppSero Helper` and install and activate the plugin. When installation will be completed it will ask for a `API Key` to connect with AppSero.
  
  ![Activate AppSero Helper](../images/api-key/activate-wordpress.png)
  
  Copy `API Key` from AppSero. If don't have any `API Key` then [create new API Key](/). Copy the Key and paste it to API Key input box then click on `Connect` button.
  
  ::: tip
- After completing installation if it don't redirect to `AppSero Helper` page then go to `Settings > Appsero Helper`. And connect the Helper.
+ After completing installation if it doesn't redirect to `AppSero Helper` page then go to `Settings > Appsero Helper`. And connect the Helper.
  :::
 
 > Your Website is now connected with AppSero.
 
 ## Enable licensing
 
-To sync license with your WordPress site at first enable licensing for the plugin/theme as well as select licence source. If enabled licensing at the time of creating project then don’t need to do anything. If not then go to <code>Settings</code> page and click on <code>Your Site</code> as hosted site of the plugin/theme. Select the plugin is used for billing. There are two option one is <code>Easy Digital Downloads</code> another one is <code>WooCommerce</code>.  
+To sync license with your WordPress site at first enable licensing for the plugin/theme as well as select license source. If enabled licensing at the time of creating the project then don’t need to do anything. If not then go to <code>Settings</code> page and select <code>Your Site</code> as hosted site of the plugin/theme. Select the plugin is used for billing. There are two option one is <code>Easy Digital Downloads</code> another one is <code>WooCommerce</code>.  
 
 To sync with <code>EDD Software Licensing</code> select <code>Easy Digital Downloads</code> as your billing plugin and <code>EDD Software Licensing</code> as license manager. 
 
@@ -49,9 +49,9 @@ To sync with <code>WooCommerce Software Add-on</code> select <code>WooCommerce</
 
 ![General Settings](../images/settings/2.png)
 
-And finally click on **<code>Update Settings</code>** button.
+And finally, click on **<code>Update Settings</code>** button.
 
-> Licensing has been enabled for the Plugin/Theme
+> Licensing have been enabled for the Plugin/Theme
 
 
 ## Connect the Plugin/Theme

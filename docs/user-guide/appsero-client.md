@@ -95,7 +95,7 @@ add_action( 'init', 'appsero_init_tracker_appsero_test' );
 
 ## More Usage
 
-Sometimes you wouldn't want to show the notice, or want to customize the notice message. You can do that as well.
+Sometimes you wouldn't want to show the notice or want to customize the notice message. You can do that as well.
 
 ```php
 $client = new AppSero\Client( 'a4a8da5b-b419-4656-98e9-4a42e9044892', 'Twenty Twelve', __FILE__ );

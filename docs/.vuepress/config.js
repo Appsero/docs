@@ -1,6 +1,6 @@
 module.exports = {
     title: 'AppSero',
-    description: 'AppSero Documentationp',
+    description: 'AppSero User Guide',
     index:'index.md',
     themeConfig: {
         nav: [

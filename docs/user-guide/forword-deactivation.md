@@ -2,17 +2,17 @@
 
 ## Forward Deactivation to Support
 
-To get email when someone deactivate the Plugin/Theme. You can enable `Forword Deactivations Mail`.
+To get an email when someone deactivates the Plugin/Theme enable `Forword Deactivations Mail`.
 
-To enable `Forword Deactivations Mail` go to `Settings` page. Under `General Settings` there there is a option for `Forword Deactivations Mail`. 
+To enable `Forword Deactivations Mail` go to `Settings` page. Under `General Settings` there is an option for `Forword Deactivations Mail`. 
 
-Check on `Forword Deactivations Mail` after that you will get an input field for email. Add comma separated emails. AppSero will send email to those emails when someone deactivate the plugin/theme. 
+Check on `Forword Deactivations Mail` after that you will get an input field for email. Add comma separated emails. AppSero will send email to those emails when someone deactivates the plugin/theme. 
 
 ![Forward Deactivation Mail](../images/settings/forword-deactivation.png)
 
-And finally click on `Update Settings` button.
+And finally,     click on `Update Settings` button.
 
-> Forward Deactivation Mail has been enabled. Now you will receive email while someone deactivate the Plugin/Theme.
+> Forward Deactivation Mail has been enabled. Now, you will receive email while someone deactivates the Plugin/Theme.
 
 ## Deactivation Auto Responder 
 
@@ -26,10 +26,10 @@ If you would like to enable `Deactivation Auto Responder` then go to `Deactivati
 
 ![Deactivation Auto Responder](../images/settings/auto-responder-2.png)
 
-After click on the `Edit` button you will get a form with email subject and email body. 
+After clicking on the `Edit` button you will get a form with email subject and email body. 
 
 ![Deactivation Auto Responder](../images/settings/aurto-responder-form.png)
 
-Fill up the form with email's Subject and Body. This email will be sent to the customer for this deactivation. Finally click on `Update` button.
+Fill up the form with email's Subject and Body. This email will be sent to the customer for this deactivation. Finally, click on `Update` button.
 
-> Deactivation Auto Responder has been enabled successfully. Now AppSero will send an email to customer if they deactivate the Plugin/Theme. 
+> Deactivation Auto Responder has been enabled successfully. Now AppSero will email customer if they deactivate the Plugin/Theme. 
