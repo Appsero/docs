@@ -23,8 +23,11 @@ module.exports = {
             ],
 
             '/developer-guide/': [
-                // '',
-                ['appsero-client', 'AppSero Client']
+                '',
+                ['appsero-client', 'AppSero Client'],
+                ['wporg-project', 'Wp.org Project'],
+                ['envato-project', 'Envato Project'],
+                ['your-store-project', 'Your Store Project'],
             ]
         }
     },

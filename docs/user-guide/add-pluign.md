@@ -2,7 +2,7 @@
 
 ## Basic Information
 
-To create new plugin go to <code>Plugins</code> menu then click on <code>Add Plugin</code> button. Fill up the form with the following information:
+To add new plugin go to <code>Plugins</code> menu then click on <code>Add Plugin</code> button. Fill up the form with the following information:
 
 ### Available Fields
 <table>
