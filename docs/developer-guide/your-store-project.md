@@ -1,4 +1,4 @@
-# Add Plugin/Theme Stored in WordPress.org
+# Add Plugin/Theme Stored in Your Store
 
 - **Follow the following steps if the Plugin/Theme hosted on Your Site**
     - [Add Plugin/Theme](#add-plugin-theme)
@@ -9,7 +9,6 @@
 If you would like to add Appseo analytics to your Plugin then [Add a plugin](#add-a-plugin). For theme [Add a theme](#add-a-theme)
 
 ### Add a Plugin
-
 To add new plugin go to `Plugins` menu then click on `Add Plugin` button. Fill up the form with the following information:
 
 #### Available Fields
@@ -177,7 +176,7 @@ git clone https://github.com/AppSero/client.git appsero
 Now include the dependencies in your plugin/theme.
 
 ```php
-require __DIR__ . '/appsero/src/load.php';
+require __DIR__ . '/appsero/src/Client.php';
 ```
 
 ### Enable Insights, Updater, Licensing

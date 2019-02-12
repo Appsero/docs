@@ -169,7 +169,7 @@ git clone https://github.com/AppSero/client.git appsero
 Now include the dependencies in your plugin/theme.
 
 ```php
-require __DIR__ . '/appsero/src/load.php';
+require __DIR__ . '/appsero/src/Client.php';
 ```
 
 ### Enable Insights 
