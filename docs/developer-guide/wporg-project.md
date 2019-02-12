@@ -1,9 +1,17 @@
 # Add Plugin/Theme Stored in WordPress.org
 
+<br/>
+  
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/m8LpLdWcutk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br/>
+<br/>
+
 - **Follow the following steps if the Plugin/Theme hosted on [WordPress.Org](https://wordpress.org)**
     - [Add Plugin/Theme](#add-plugin-theme)
     - [Update Settings](#update-settings)
     - [Install Appsero Client](#install-appsero-client)
+   
 
 ## Add Plugin/Theme
 If you would like to add Appseo analytics to your Plugin then [Add a plugin](#add-a-plugin). For theme [Add a theme](#add-a-theme)

@@ -1,5 +1,12 @@
 # Adding a Plugin
 
+<br/>
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/eZvOoa6JryY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br/>
+<br/>
+
 ## Basic Information
 
 To add new plugin go to <code>Plugins</code> menu then click on <code>Add Plugin</code> button. Fill up the form with the following information:

@@ -1,5 +1,12 @@
 # Email Digest
 
+<br/>
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/3DdwmiC-9J0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br/>
+<br/>
+
 To enable email digest go to <code> Email Digest </code> page and click on <code>Add New</code> button. After clicking on the <code>Add New</code> button, you will get a form.
 
 !['Email Digest'](../images/email-digest/email-digest.png) 

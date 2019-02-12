@@ -1,5 +1,12 @@
 # Adding a Theme
 
+<br/>
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/0kF9ZUmzBmA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br/>
+<br/>
+
 ## Basic Information
 
 To add theme go to <code>Themes</code> menu then click on <code>Add Theme</code> button. Fill up the form with the following information:
