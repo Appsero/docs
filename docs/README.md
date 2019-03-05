@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /images/appsero.svg
-heroText: AppSero Developer Documents
+heroText: Analytics for WordPress
 tagline: Hero subtitle
 actionText: Get Started →
 actionLink: /user-guide/
@@ -12,5 +12,5 @@ features:
   details: Enjoy the dev experience of Vue + webpack, use Vue components in markdown, and develop custom themes with Vue.
 - title: Release
   details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
-footer: MIT Licensed | Copyright © 2018-present Evan You
+footer: Copyright © 2018-present, weDevs Pte Ltd. All Rights Reserved.
 ---
