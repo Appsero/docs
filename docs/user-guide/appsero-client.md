@@ -1,4 +1,4 @@
-# AppSero - Client
+# Appsero - Client
 
 - [Installation](#installation)
 - [Insights](#insights)
@@ -6,7 +6,7 @@
 
 ## Installation
 
-You can install AppSero Client in two ways, via composer and manually.
+You can install Appsero Client in two ways, via composer and manually.
 
 ### 1. Composer Installation
 
@@ -28,7 +28,7 @@ Clone the repository in your project.
 
 ```
 cd /path/to/your/project/folder
-git clone https://github.com/AppSero/client.git appsero
+git clone https://github.com/Appsero/client.git appsero
 ```
 
 Now include the dependencies in your plugin/theme.
@@ -39,12 +39,12 @@ require __DIR__ . '/appsero/src/load.php';
 
 ## Insights
 
-AppSero can be used in both themes and plugins.
+Appsero can be used in both themes and plugins.
 
-The `AppSero\Client` class has *three* parameters:
+The `Appsero\Client` class has *three* parameters:
 
 ```php
-$insights = new AppSero\Client( $hash, $name, $file );
+$insights = new Appsero\Client( $hash, $name, $file );
 ```
 
 - **hash** (*string*, *required*) - The unique identifier for a plugin or theme.
@@ -55,7 +55,7 @@ $insights = new AppSero\Client( $hash, $name, $file );
 
 Please refer to the **installation** step before start using the class.
 
-You can obtain the **hash** for your plugin for the [AppSero Dashboard](https://dashboard.appsero.com). The 3rd parameter **must** have to be the main file of the plugin.
+You can obtain the **hash** for your plugin for the [Appsero Dashboard](https://dashboard.appsero.com). The 3rd parameter **must** have to be the main file of the plugin.
 
 ```php
 /**
@@ -65,11 +65,11 @@ You can obtain the **hash** for your plugin for the [AppSero Dashboard](https://
  */
 function appsero_init_tracker_appsero_test() {
 
-    if ( ! class_exists( 'AppSero\Client' ) ) {
+    if ( ! class_exists( 'Appsero\Client' ) ) {
       require_once __DIR__ . '/appsero/src/load.php';
     }
 
-    $client = new AppSero\Client( 'a4a8da5b-b419-4656-98e9-4a42e9044891', 'Akismet', __FILE__ );
+    $client = new Appsero\Client( 'a4a8da5b-b419-4656-98e9-4a42e9044891', 'Akismet', __FILE__ );
 
     // Active insights
     $client->insights()->init();
@@ -98,7 +98,7 @@ add_action( 'init', 'appsero_init_tracker_appsero_test' );
 Sometimes you wouldn't want to show the notice or want to customize the notice message. You can do that as well.
 
 ```php
-$client = new AppSero\Client( 'a4a8da5b-b419-4656-98e9-4a42e9044892', 'Twenty Twelve', __FILE__ );
+$client = new Appsero\Client( 'a4a8da5b-b419-4656-98e9-4a42e9044892', 'Twenty Twelve', __FILE__ );
 ```
 
 #### 1. Hiding the notice
@@ -119,7 +119,7 @@ $client->insights()
 
 #### 3. Adding extra data
 
-You can add extra metadata from your theme or plugin. In that case, the **keys** has to be whitelisted from the AppSero dashboard.
+You can add extra metadata from your theme or plugin. In that case, the **keys** has to be whitelisted from the Appsero dashboard.
 
 ```php
 $metadata = array(
@@ -138,7 +138,7 @@ $client->insights()
 In some cases you wouldn't want to show the optin message, but forcefully opt-in the user and send tracking data.
 
 ```php
-$client = new AppSero\Client( 'a4a8da5b-b419-4656-98e9-4a42e9044892', 'Twenty Twelve', __FILE__ );
+$client = new Appsero\Client( 'a4a8da5b-b419-4656-98e9-4a42e9044892', 'Twenty Twelve', __FILE__ );
 
 $insights = $client->insights();
 $insights->hide_notice()->init();

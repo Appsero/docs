@@ -64,10 +64,10 @@ After filling up the form click on <code>**Submit Theme**</code> button.
 After submitting the theme it will be redirected to <code>Theme Settings</code> page. On settings page update following information. 
 
 ### Where Is The Theme Hosted
-Select the theme’s hosted site among **[AppSero](#appsero)**, **[WordPress.org](#wordpress-org)**, **[Envato](#envato)** and **[Your Site](#your-site)**. 
+Select the theme’s hosted site among **[Appsero](#appsero)**, **[WordPress.org](#wordpress-org)**, **[Envato](#envato)** and **[Your Site](#your-site)**. 
 
-### AppSero
-Select AppSero if the theme hosted on appaero.com after that you will get an option to enable licensing. If you would like to manage licensing for this theme then <code>Enable</code> licensing system otherwise <code>Disable</code> it. 
+### Appsero
+Select Appsero if the theme hosted on appaero.com after that you will get an option to enable licensing. If you would like to manage licensing for this theme then <code>Enable</code> licensing system otherwise <code>Disable</code> it. 
 
 If this is a premium theme then check on <code>This Is a Premium theme</code>. 
 
@@ -86,9 +86,9 @@ To enable licensing using Envato purchase key click on <code>Use Envato Purchase
 Select the theme you are using for billing. There are two options one is <code>Easy Digital Downloads</code> another <code>WooCommerce.</code> 
 
 #### Select your preferred license manager. 
-For <code>Easy Digital Downloads</code> there are two options one <code>EDD Software licensing</code> another <code>AppSero</code> native. Select your preferred licensing system. If the theme don’t need licensing then click on <code>Not Any</code>. 
+For <code>Easy Digital Downloads</code> there are two options one <code>EDD Software licensing</code> another <code>Appsero</code> native. Select your preferred licensing system. If the theme don’t need licensing then click on <code>Not Any</code>. 
 
-For <code>WooCommerce</code> there are three options <code>WooCommerce API Manager</code>, <code>WooCommerce Software Add-on</code>, <code>AppSero</code> Native Licensing. Select your preferred licensing system.  If the theme doesn’t need licensing then click on <code>Not Any</code>. 
+For <code>WooCommerce</code> there are three options <code>WooCommerce API Manager</code>, <code>WooCommerce Software Add-on</code>, <code>Appsero</code> Native Licensing. Select your preferred licensing system.  If the theme doesn’t need licensing then click on <code>Not Any</code>. 
 
 If this is a premium theme then check on <code>This Is a Premium Theme</code> checkbox. 
 

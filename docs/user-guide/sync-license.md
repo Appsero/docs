@@ -2,7 +2,7 @@
 
 - **To Sync Licenses From WordPress Store Follow the Following Steps:**
     - [Creating API Key](#creating-api-key)
-    - [Install AppSero Helper](#install-appsero-helper)
+    - [Install Appsero Helper](#install-appsero-helper)
     - [Enable Licensing](#enable-licensing)
     - [Map the Plugin/Theme](#connect-the-plugin-theme)
     - [Sync Licenses](#sync-licenses)
@@ -17,23 +17,23 @@ Then click on `Create API Key` button.
 
 ![Create API Key](../images/api-key/2.png)
 
-> API Key have been created. Use this API Key to connect your WordPress Site by AppSero Helper Plugin
+> API Key have been created. Use this API Key to connect your WordPress Site by Appsero Helper Plugin
 
-## Install AppSero Helper
+## Install Appsero Helper
 
-Appsero Helper provides a connection between AppSero and WordPress store.
+Appsero Helper provides a connection between Appsero and WordPress store.
 
-Go to your store WordPress site and install `AppSero Helper` plugin. To install `appsero-helper` upload the `appsero-helper` plugin to your `/wp-content/plugins/` directory. Or go to the plugin page and search `AppSero Helper` and install and activate the plugin. When installation will be completed it will ask for a `API Key` to connect with AppSero.
+Go to your store WordPress site and install `Appsero Helper` plugin. To install `appsero-helper` upload the `appsero-helper` plugin to your `/wp-content/plugins/` directory. Or go to the plugin page and search `Appsero Helper` and install and activate the plugin. When installation will be completed it will ask for a `API Key` to connect with Appsero.
  
- ![Activate AppSero Helper](../images/api-key/activate-wordpress.png)
+ ![Activate Appsero Helper](../images/api-key/activate-wordpress.png)
  
- Copy `API Key` from AppSero. If don't have any `API Key` then [create new API Key](/). Copy the Key and paste it to API Key input box then click on `Connect` button.
+ Copy `API Key` from Appsero. If don't have any `API Key` then [create new API Key](/). Copy the Key and paste it to API Key input box then click on `Connect` button.
  
  ::: tip
- After completing installation if it doesn't redirect to `AppSero Helper` page then go to `Settings > Appsero Helper`. And connect the Helper.
+ After completing installation if it doesn't redirect to `Appsero Helper` page then go to `Settings > Appsero Helper`. And connect the Helper.
  :::
 
-> Your Website is now connected with AppSero.
+> Your Website is now connected with Appsero.
 
 ## Enable licensing
 

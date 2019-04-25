@@ -144,7 +144,7 @@ Finally, click on <code>**Save Settings**</code> button.
 
 ## Install Appsero Client
 
-You can install AppSero Client in two ways, via composer and manually.
+You can install Appsero Client in two ways, via composer and manually.
 
 ### 1. Composer Installation
 
@@ -166,7 +166,7 @@ Clone the repository in your project.
 
 ```
 cd /path/to/your/project/folder
-git clone https://github.com/AppSero/client.git appsero
+git clone https://github.com/Appsero/client.git appsero
 ```
 
 Now include the dependencies in your plugin/theme.

@@ -6,7 +6,7 @@ To get an email when someone deactivates the Plugin/Theme enable `Forword Deacti
 
 To enable `Forword Deactivations Mail` go to `Settings` page. Under `General Settings` there is an option for `Forword Deactivations Mail`. 
 
-Check on `Forword Deactivations Mail` after that you will get an input field for email. Add comma separated emails. AppSero will send email to those emails when someone deactivates the plugin/theme. 
+Check on `Forword Deactivations Mail` after that you will get an input field for email. Add comma separated emails. Appsero will send email to those emails when someone deactivates the plugin/theme. 
 
 ![Forward Deactivation Mail](../images/settings/forword-deactivation.png)
 
@@ -32,4 +32,4 @@ After clicking on the `Edit` button you will get a form with email subject and e
 
 Fill up the form with email's Subject and Body. This email will be sent to the customer for this deactivation. Finally, click on `Update` button.
 
-> Deactivation Auto Responder has been enabled successfully. Now AppSero will email customer if they deactivate the Plugin/Theme. 
+> Deactivation Auto Responder has been enabled successfully. Now Appsero will email customer if they deactivate the Plugin/Theme. 

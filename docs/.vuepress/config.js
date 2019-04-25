@@ -1,6 +1,6 @@
 module.exports = {
-    title: 'AppSero',
-    description: 'AppSero User Guide',
+    title: 'Appsero',
+    description: 'Appsero User Guide',
     index:'index.md',
     themeConfig: {
         nav: [
@@ -19,12 +19,12 @@ module.exports = {
                 ['email-digest', 'Email Digest'],
                 ['releases', 'Release'],
                 ['forword-deactivation', 'Forword Deactivations'],
-                ['appsero-helper', 'AppSero Helper'],
+                ['appsero-helper', 'Appsero Helper'],
             ],
 
             '/developer-guide/': [
                 '',
-                ['appsero-client', 'AppSero Client'],
+                ['appsero-client', 'Appsero Client'],
                 ['wporg-project', 'Wp.org Project'],
                 ['envato-project', 'Envato Project'],
                 ['your-store-project', 'Your Store Project'],

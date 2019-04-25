@@ -3,7 +3,7 @@
 - To enable licensing for Envato by Purchase code follow the following steps:
     - [Enable Envato Purchase Code licensing](#enable-licensing)
     - [Create an App on Envato](#create-envato-app)
-    - [Integrate Envato with AppSero](#integrate-envato-with-appsero)
+    - [Integrate Envato with Appsero](#integrate-envato-with-appsero)
     - [Map the Plugin/Theme with Envato Project.](#map-the-plugin-theme-with-envato-project)
 
 
@@ -13,14 +13,14 @@ If enabled <code>Envato Purchase Code Licensing</code> at the time of creating P
 
 ## Create Envato App
 
-To connect AppSero with Envato need a personal token. For personal token need to [create](https://build.envato.com/create-token/?purchase:download=t&sale:verify=t&sale:history=t&user:account=t&user:username=t) an Envato app. To create an app click on the link.
+To connect Appsero with Envato need a personal token. For personal token need to [create](https://build.envato.com/create-token/?purchase:download=t&sale:verify=t&sale:history=t&user:account=t&user:username=t) an Envato app. To create an app click on the link.
 [Create Envato App](https://build.envato.com/create-token/?purchase:download=t&sale:verify=t&sale:history=t&user:account=t&user:username=t)
 
 Give a name for your app and accept terms and conditions. Then click on <code>Create Token</code> button. You will get a token. Save your token.
 
-## Integrate Envato with AppSero
+## Integrate Envato with Appsero
 
-To integrate Envato with AppSero go to <code>Integrations</code> page under right top navigation menu.  
+To integrate Envato with Appsero go to <code>Integrations</code> page under right top navigation menu.  
 
 ![Integrate](../images/integrations/1.png)
 
@@ -28,7 +28,7 @@ On Integrations page connect Envato by your Envato personal token.
 
 ![Integrate](../images/integrations/2.png)
 
-> AppSero is connected with Envato. 
+> Appsero is connected with Envato. 
 
 ## Map the Plugin/Theme with Envato Project.
 

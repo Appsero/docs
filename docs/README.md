@@ -1,16 +1,15 @@
 ---
 home: true
-heroImage: /images/appsero.svg
-heroText: Analytics for WordPress
-tagline: Hero subtitle
+heroImage: /images/appsero.png
+heroText: The perfect companion for WordPress Plugin and Theme Authors
 actionText: Get Started →
 actionLink: /user-guide/
 features:
 - title: Analytics
-  details: Minimal setup with markdown-centered project structure helps you focus on writing.
+  details: Get real-time customer analysis for both your free & premium WordPress themes & plugins.
 - title: Licensing
-  details: Enjoy the dev experience of Vue + webpack, use Vue components in markdown, and develop custom themes with Vue.
+  details: Hassle-free software license management system to maintain all your premium products smoothly.
 - title: Release
-  details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
-footer: Copyright © 2018-present, weDevs Pte Ltd. All Rights Reserved.
+  details: Deploy updates anywhere for your premium plugins & themes and send them directly to your users' dashboard.
+footer: Copyright © 2018-present, Appsero. All Rights Reserved.
 ---

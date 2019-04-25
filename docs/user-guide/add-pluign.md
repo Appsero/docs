@@ -78,10 +78,10 @@ After filling up the form click on <code>**Submit Plugin**</code> button.
 After submitting the plugin it will be redirected to <code>Plugin Settings</code> page. On settings page update following information. 
 
 ### Where Is The Plugin Hosted
-Select the plugin’s hosted site among **[AppSero](#appsero)**, **[WordPress.org](#wordpress-org)**, **[Envato](#envato)** and **[Your Site](#your-site)**. 
+Select the plugin’s hosted site among **[Appsero](#appsero)**, **[WordPress.org](#wordpress-org)**, **[Envato](#envato)** and **[Your Site](#your-site)**. 
 
-### AppSero
-Select AppSero if the plugin hosted on appaero.com after that you will get an option to enable licencing. If you would like to manage licensing for this plugin then <code>Enable</code> licensing system otherwise <code>Disable</code> it. 
+### Appsero
+Select Appsero if the plugin hosted on appaero.com after that you will get an option to enable licencing. If you would like to manage licensing for this plugin then <code>Enable</code> licensing system otherwise <code>Disable</code> it. 
 
 If this is a premium plugin then check on <code>This Is a Premium Plugin</code>. 
 
@@ -100,9 +100,9 @@ To enable licensing using Envato purchase key click on <code>Use Envato Purchase
 Select the plugin you are using for billing. There are two options one is <code>Easy Digital Downloads</code> another <code>WooCommerce.</code> 
 
 #### Select your preferred license manager. 
-For <code>Easy Digital Downloads</code> there are two options one <code>EDD Software Licencing</code> another <code>AppSero</code> native. Select your preferred licensing system. If the plugin doesn’t need licensing then click on <code>Not Any</code>. 
+For <code>Easy Digital Downloads</code> there are two options one <code>EDD Software Licencing</code> another <code>Appsero</code> native. Select your preferred licensing system. If the plugin doesn’t need licensing then click on <code>Not Any</code>. 
 
-For <code>WooCommerce</code> there are three options <code>WooCommerce API Manager</code>, <code>WooCommerce Software Add-on</code>, <code>AppSero</code> Native Licensing. Select your preferred licensing system.  If the plugin doesn’t need licencing then click on <code>Not Any</code>. 
+For <code>WooCommerce</code> there are three options <code>WooCommerce API Manager</code>, <code>WooCommerce Software Add-on</code>, <code>Appsero</code> Native Licensing. Select your preferred licensing system.  If the plugin doesn’t need licencing then click on <code>Not Any</code>. 
 If this is a premium plugin then check on <code>This Is a Premium Plugin</code> checkbox. 
 
 If enabled <code>This Is a Premium Plugin</code> then you will get an option  for variation. If the plugin has multiple variations then check on <code>Has Variations</code> and add variations by providing <code>Variations Name</code> and <code>Activations limit.</code> 
