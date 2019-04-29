@@ -28,7 +28,7 @@ If you would like to enable `Deactivation Auto Responder` then go to `Deactivati
 
 After clicking on the `Edit` button you will get a form with email subject and email body. 
 
-![Deactivation Auto Responder](../images/settings/aurto-responder-form.png)
+![Deactivation Auto Responder](../images/settings/auto-responder-form.png)
 
 Fill up the form with email's Subject and Body. This email will be sent to the customer for this deactivation. Finally, click on `Update` button.
 

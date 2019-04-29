@@ -108,7 +108,9 @@ If this is a premium plugin then check on <code>This Is a Premium Plugin</code> 
 If enabled <code>This Is a Premium Plugin</code> then you will get an option  for variation. If the plugin has multiple variations then check on <code>Has Variations</code> and add variations by providing <code>Variations Name</code> and <code>Activations limit.</code> 
 <br><br>
 
-![An image](../images/project/settings.png)
+![An image](../images/project/licensing.png)
+
+![An image](../images/project/variations.png)
 
 Finally, click on <code>**Save Settings**</code> button. 
 

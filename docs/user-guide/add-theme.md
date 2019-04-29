@@ -95,7 +95,9 @@ If this is a premium theme then check on <code>This Is a Premium Theme</code> ch
 If enabled <code>This Is a Premium theme</code> then, you will get an option  for variation. If the theme has multiple variations then check on <code>Has Variations</code> and add variations by providing <code>Variations Name</code> and <code>Activations limit.</code> 
 <br><br>
 
-![Theme Settings](../images/project/settings.png)
+![An image](../images/project/licensing.png)
+
+![An image](../images/project/variations.png)
 
 Finally, click on <code>**Save Settings**</code> button. 
 

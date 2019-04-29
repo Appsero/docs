@@ -74,3 +74,4 @@ To sync license with your WordPress store go to `Licenses` page and click on `Sy
 
 > Syncing will be started and you will get an email when syncing will be completed. 
 
+
