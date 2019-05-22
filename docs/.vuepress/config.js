@@ -2,6 +2,9 @@ module.exports = {
     title: 'Appsero',
     description: 'Appsero User Guide',
     index:'index.md',
+    head: [
+        ['link', { rel: 'icon', href: '/images/favicon.png' }]
+    ],
     themeConfig: {
         nav: [
             {text: 'Home', link: '/'},
@@ -20,6 +23,7 @@ module.exports = {
                 ['releases', 'Release'],
                 ['forword-deactivation', 'Forword Deactivations'],
                 ['appsero-helper', 'Appsero Helper'],
+                ['push-to-deploy', 'Push to Deploy'],
             ],
 
             '/developer-guide/': [

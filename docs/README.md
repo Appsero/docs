@@ -11,5 +11,5 @@ features:
   details: Hassle-free software license management system to maintain all your premium products smoothly.
 - title: Release
   details: Deploy updates anywhere for your premium plugins & themes and send them directly to your users' dashboard.
-footer: Copyright © 2018-present, Appsero. All Rights Reserved.
+footer: Copyright © 2019, Appsero. All Rights Reserved.
 ---

@@ -1,6 +1,6 @@
 # A Quick Tour
 
-- [AppSero Client](appsero-client.html)
+- [Appsero Client](appsero-client.html)
     - [Installation](appsero-client.html#installation)
     - [Insights](appsero-client.html#insights)
     - [Enable Updater](appsero-client.html#enable-updater)
