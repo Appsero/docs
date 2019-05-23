@@ -39,11 +39,11 @@ Add a json file in root directory called `appsero.json` and add an array with `e
 
 ## Custom Directory Name
 
-By default we use project slug for your Plugin or Theme directory name, But you have option to change it. Add directory name with key `directory_name` in `appsero.json` file. 
+By default we use project slug for your Plugin or Theme directory name, But you have option to change it. Add directory name with key `name` in `appsero.json` file. 
 
 ```json
 {
-    "directory_name": "push-to-deploy"
+    "name": "push-to-deploy"
 }
 ```
 
