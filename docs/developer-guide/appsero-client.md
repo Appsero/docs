@@ -13,7 +13,7 @@ You can install Appsero Client in two ways, via composer and manually.
 Add dependency in your project (theme/plugin):
 
 ```
-composer require appsero/client x
+composer require appsero/client
 ```
 
 Now add `autoload.php` in your file if you haven't done already.
