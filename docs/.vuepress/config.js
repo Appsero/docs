@@ -10,6 +10,7 @@ module.exports = {
             {text: 'Home', link: '/'},
             {text: 'User Guide', link: '/user-guide/'},
             {text: 'Developer Guide', link: '/developer-guide/'},
+            {text: 'Big Data', link: '/big-data/'},
         ],
         sidebar: {
             '/user-guide/': [
@@ -32,6 +33,17 @@ module.exports = {
                 ['wporg-project', 'Wp.org Project'],
                 ['envato-project', 'Envato Project'],
                 ['your-store-project', 'Your Store Project'],
+            ],
+
+            '/big-data/': [
+                '',
+                ['tracking-architecture', 'Tracking Architecture'],
+                ['tracking-pipeline', 'Tracking Pipeline'],
+                ['tracking-source-code', 'Tracking Source Code'],
+                
+                ['deactivate-architecture', 'Deactivate Architecture'],
+                ['deactivate-pipeline', 'Deactivate Pipeline'],
+                ['deactivate-source-code', 'Deactivate Source Code'],
             ]
         }
     },
